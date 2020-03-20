@@ -8,9 +8,6 @@ great music software created by Sam Aaron (http://sonic-pi.net).
 At the moment Python-Sonic works with Sonic Pi. It is planned, that it
 will work with Supercollider, too.
 
-If you like it, use it. If you have some suggestions, tell me
-(gkvoelkl@nelson-games.de).
-
 Installation
 ------------
 
